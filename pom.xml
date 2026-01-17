@@ -62,7 +62,7 @@
 
         <!-- test deps versions -->
         <junit.version>4.12</junit.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
 
         <!-- GSON deps versions -->
         <gson.version>2.6.2</gson.version>
